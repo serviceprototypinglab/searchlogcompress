@@ -1,0 +1,5 @@
+Structure-preserving (& searchable) log file compression.
+
+1. Create authtoken.secret file with single-line passphrase.
+2. Run python3 slcreader.py.
+3. Figure out the rest from the inline documentation in slcreader.py.

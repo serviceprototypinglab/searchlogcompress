@@ -1,0 +1,9 @@
+# Use: docker-compose run slc
+
+version: '3'
+services:
+  slc:
+    container_name: slc
+    image: slc
+    ports:
+      - "7777:7777"
